@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589749280417",
+    "project_id": "flutauth-71c19",
+    "storage_bucket": "flutauth-71c19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589749280417:android:085292fb65464685badae0",
+        "android_client_info": {
+          "package_name": "com.example.flut_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589749280417-rhdjps68gfb47p8d36ks2tj32tef5643.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flut_auth",
+            "certificate_hash": "79c2728681631a1018912fabb1ac614f978b0da2"
+          }
+        },
+        {
+          "client_id": "589749280417-g0h39qoc130trrk5qp9v4mcci2fsnos2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4y0PeRsp0YACB7QId4syGB9Q53JkDDv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589749280417-g0h39qoc130trrk5qp9v4mcci2fsnos2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
